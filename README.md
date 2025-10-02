@@ -1,7 +1,8 @@
-### 그냥 평범한 스무살 👋
-<p>
-<img src='https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black'/>&nbsp;
-<img src='https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white'/>&nbsp;
-<img src='https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=Discord&logoColor=white'/>&nbsp;
-<img src='https://img.shields.io/badge/kakaotalk bot-000000?style=flat-square&logo=Kakaotalk&logoColor=white'/>&nbsp;
-</p>
+# YeonHo0718 👋
+
+- 😸[**MachoBot (Stock Discord Bot)**](https://namu.wiki/w/%EB%A7%88%EC%B5%B8%EB%B4%87) – Project Manager & Developer
+- 🌱[**SHPD Seed Finder - KR**](https://github.com/Llyias/shpd-seedFinder-kr) – Developer
+- 📸[**ClearShot**](https://github.com/Zerotone-ClearShot) – Backend Developer
+  - Designed database schema, developed APIs, and managed AWS RDS  
+  - Integrated OpenAI for automated screenshot summarization and classification  
+  - 🥇 **Grand Prize, Dankook University Hackathon (Mar 2025)**
